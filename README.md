@@ -44,6 +44,7 @@ Dataset Source - https://www.kaggle.com/datasets/diraizel/anime-images-dataset/d
 ### **Demo**
 
 *"Here’s how it works: You provide the path to a dataset organized as folders, each named after an anime. Inside each folder are images of that anime. The script will search for the folder, count the images, and display the number you request."*  
+   
 Check Video uploaded on Github - https://www.youtube.com/watch?v=OfKXQBib8Kw
 ---
 
