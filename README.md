@@ -4,6 +4,8 @@
 
 *"The script uses Python and requires the PIL library (or Pillow) to handle images. You’ll also need a dataset of anime images organized in folders by anime names."*
 
+**Check Video uploaded on Github - https://www.youtube.com/watch?v=OfKXQBib8Kw**
+
 Dataset Source - https://www.kaggle.com/datasets/diraizel/anime-images-dataset/data
 ---
 
@@ -45,7 +47,6 @@ Dataset Source - https://www.kaggle.com/datasets/diraizel/anime-images-dataset/d
 
 *"Here’s how it works: You provide the path to a dataset organized as folders, each named after an anime. Inside each folder are images of that anime. The script will search for the folder, count the images, and display the number you request."*  
    
-Check Video uploaded on Github - https://www.youtube.com/watch?v=OfKXQBib8Kw
 ---
 
 ### **Conclusion**
